@@ -1,2 +1,2 @@
- # JavaFXTemplate
- Plantilla para nuevos proyectos JavaFX con Maven
+ # CV
+Programa para gestionar Curriculums
