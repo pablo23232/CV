@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cv>
+    <conocimientos denominacion="asd" nivel="MEDIO"/>
+    <contacto>
+        <emails direccion="qweqweq@gmail.com"/>
+        <telefonos numero="12345678" tipo="DOMICILIO"/>
+        <webs url="http://asdasd.es"/>
+    </contacto>
+    <experiencia denominacion="asdas" desde="2019-12-05" empleador="asdas" hasta="2019-12-22"/>
+    <formacion desde="2019-11-14" hasta="2019-12-19">
+        <denominacion>asdasd</denominacion>
+        <organizador>afasf</organizador>
+    </formacion>
+    <personal identificacion="12345678A">
+        <apellidos>qweqwwe</apellidos>
+        <codigoPostal>123124213</codigoPostal>
+        <direccion>qweqwewq</direccion>
+        <fechaNacimiento>2019-12-27</fechaNacimiento>
+        <localidad>1232131</localidad>
+        <nacionalidades denominacion="alemán"/>
+        <nombre>qweqwe</nombre>
+        <pais>Albania</pais>
+    </personal>
+</cv>
